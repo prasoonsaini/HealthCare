@@ -35,7 +35,7 @@
                     @endauth
                 </div>
             @endif
-            <img src="https://i.pinimg.com/564x/c3/74/5c/c3745cc83a7317b0b8ed6975eeb6aac2.jpg" alt="health" width="700" height="500" style="margin-left: -300px;">
+            <img src="https://i.pinimg.com/564x/c3/74/5c/c3745cc83a7317b0b8ed6975eeb6aac2.jpg" alt="health" width="700" height="400" style="margin-left: -100px;">
             <div>
                <h1>WE CARE</h1>
                <p>Login or SignUp and tell us your health indexes and we will suggest you..</p>
