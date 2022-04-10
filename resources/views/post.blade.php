@@ -4,7 +4,7 @@
             {{ __('WECARE') }}
         </h2>
     </x-slot>
-
+<div class="bg-[url('https://i.pinimg.com/564x/c3/74/5c/c3745cc83a7317b0b8ed6975eeb6aac2.jpg')]>
     <div class="py-2">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
@@ -73,7 +73,7 @@
                                <input type="submit" class="shadow bg-green-500 hover:bg=green-400
                                focus:shadow-outline focus:shadow-outline focus:outline-none
                                text-white font-bold py-2 px-4 rounded"
-                               value="Post">
+                               value="Submit">
                            </div>
                        </div>
                     </form>
@@ -87,4 +87,5 @@
             </div>
         </div>
     </div>
+</div>
 </x-app-layout>
