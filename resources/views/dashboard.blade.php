@@ -44,7 +44,7 @@
                                                 <th scope="col" class="px-6
                                 py-3 text-left text-xs 
                                 font-medium text-gray-100
-                                uppercase tracking-wider">Oxygen
+                                uppercase tracking-wider">Oxygen Count
                                                 </th>
                                                 <th scope="col" class="px-6
                                 py-3 text-left text-xs 
@@ -88,12 +88,12 @@
                                                 <td class="px-6 py-4
                             whitespace-nowwrap text-sm font-medium">
                                                     <a href="{{url('/post/edit',
-                            $post->id)}}" class="bg-purple-500 hover:bg-purple-400
+                            $post->id)}}" class="bg-purple-500 hover:bg-green-400
                             focus:shadow-outline focus:outline-none
                             text-white text-sm py-1
                             px-2 rounded">Edit</a>
                                                     <a href="{{url('/post/delete',
-                            $post->id)}}" class="bg-red-500 hover:bg-red-400
+                            $post->id)}}" class="bg-red-500 hover:bg-blue-400
                             focus:shadow-outline focus:outline-none
                             text-white text-sm py-1
                             px-2 rounded ml-5">Delete</a>
