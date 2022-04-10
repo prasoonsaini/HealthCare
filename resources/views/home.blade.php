@@ -35,10 +35,17 @@
                     @endauth
                 </div>
             @endif
-            <img src="https://www.analyticssteps.com/backend/media/thumbnail/2045798/7210428_1601451322_Health.jpg" alt="health" width="700" height="500" style="margin-left: -300px;">
+            <img src="https://i.pinimg.com/564x/c3/74/5c/c3745cc83a7317b0b8ed6975eeb6aac2.jpg" alt="health" width="700" height="500" style="margin-left: -300px;">
             <div>
                <h1>WE CARE</h1>
                <p>Login or SignUp and tell us your health indexes and we will suggest you..</p>
+               <h2>PULSE</h2>
+               <img src="https://i.pinimg.com/564x/6f/20/5f/6f205f0cb60c4fa21bd8dad6a961339e.jpg" alt="pulse">
+               <h2>OXYGEN</h2>
+               <img src="https://i.pinimg.com/736x/c9/bd/2e/c9bd2e0aa159fe6b6ebf9039d797f43a.jpg" alt="oxygen" width="200" height="200">
+            </div>
+            <div>
+               <img src="https://i.pinimg.com/564x/a1/49/07/a14907f35da53352eee38af937a299c9.jpg" alt="bmi"  width="300" height="300">
             </div>
             <!-- <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
